@@ -6,4 +6,4 @@
 * tomato
 ## Instructions
 * Feed all ingredients to cats
-* Refrigerate leftovers for up to one day.
+* Store leftovers for up to one dayin fridge.
