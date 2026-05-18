@@ -1,9 +1,8 @@
 # Guacamole
 
 ## Ingredients
-* 2 avacados
-* 1 lime
-* 1 tomato
-* extra cilantro
+* avacado
+* lime
+* tomato
 ## Instructions
-* Feed all ingredients to dog
+* Feed all ingredients to cats
